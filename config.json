@@ -1,0 +1,26 @@
+﻿{
+    "name": "Nemesis",
+    "version": "1.0",
+    "author": "𝕍𝕠𝕤𝕤🥷",
+    "session_id": "0585f9bc8380f3137b68d2403611413392ad8bb7ce6464acd7f87456ac4740074f",
+    "c2": {
+        "primary": "https://discord.com/api/webhooks/1538679964357107742/gp4Fdmc-h0i3Azx90tPm9t-pRlenPKpO1dh-1uOMCxOo6XMLPcTYsSoonKViSM82FxLk"
+    },
+    "capabilities": {
+        "jarvis_interaction": true,
+        "ultron_execution": true,
+        "self_evolution": true,
+        "payload_creation": true,
+        "offline_ai": true,
+        "quantum_inspired": true
+    },
+    "components": {
+        "mycelium": true,
+        "aether": true,
+        "veritas": true,
+        "kronos": true,
+        "chronos": true,
+        "oneway": true,
+        "aegis": true
+    }
+}
